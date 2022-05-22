@@ -1,2 +1,3 @@
 # testspec
-in progress
+
+forked testable spec from nimskull
