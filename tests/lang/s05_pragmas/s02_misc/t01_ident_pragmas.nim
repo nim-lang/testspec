@@ -1,5 +1,6 @@
 discard """
 
+joinable: false
 cmd: "nim c -r -d:strdefineUsed='test' -d:intdefineUsed=2 -d:booldefineUsed=false $options $file"
 
 """

@@ -1,6 +1,9 @@
 name: Test spec
 
-on: [push, pull_request]
+on: 
+  push:
+  schedule:
+    - cron: '0 01 * * *'
 
 jobs:
   test:
