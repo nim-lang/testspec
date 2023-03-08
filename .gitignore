@@ -1,2 +1,9 @@
 *.o
 nimcache
+testresults
+*.exe
+tests/**/**/*.js
+megatest.nim
+outputGotten.txt
+tests/spec/s01_basics/c01_primitive_types/htmldocs/nimdoc.out.css
+tests/spec/s01_basics/c01_primitive_types/htmldocs/t01_integers.html
