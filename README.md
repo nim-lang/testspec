@@ -11,7 +11,7 @@ three levels. The first level starts with directory with a prefixc `s`, such as 
 
 The project uses `testament` to verify the correctness of specifications. Here is a simple example how a test file should look like.
 
-```
+```nim
 discard """
   targets: "c cpp js"
 """
