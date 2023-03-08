@@ -1,7 +1,7 @@
 # Package
 
 version       = "0.1.0"
-author        = "xflywind"
+author        = "nim-lang"
 description   = "A testable spec for Nim."
 license       = "MIT"
 srcDir        = "src"
