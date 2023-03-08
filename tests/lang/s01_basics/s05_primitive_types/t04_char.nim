@@ -1,3 +1,0 @@
-discard """
-disabled: true
-"""
